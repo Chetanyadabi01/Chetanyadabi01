@@ -180,7 +180,7 @@ I'm interested in opportunities involving:
 ## Let's Connect
 
 <p>
-<a href="[www.linkedin.com/in/chetanya-dabi-6bb665295](https://www.linkedin.com/in/chetanya-dabi-6bb665295/)">
+<a href="chetanya-dabi-6bb665295">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
